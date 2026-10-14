@@ -64,5 +64,5 @@ ORDER BY id ASC
 LIMIT 5;
 
 
--- 5. Verify your results (IDs should now be 1 to 20)
+-- 5. Verify results (IDs should now be 1 to 20)
 SELECT * FROM users;
